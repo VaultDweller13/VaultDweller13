@@ -8,7 +8,7 @@ Self-study to become a front-end developer
 
 ## My github stats
  
- [![Artyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaultDweller13&show_icons=true)](https://github.com/vaultdweller13/github-readme-stats)
+ [![Artyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaultDweller13&show_icons=true&count_private=true)](https://github.com/vaultdweller13/github-readme-stats)
 
 
 ## My contacts

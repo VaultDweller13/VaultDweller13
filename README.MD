@@ -4,7 +4,7 @@ Self-studying to become a front-end developer
 
 ## My stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,webpack)](https://skillicons.dev)
 
 ## My contacts
 

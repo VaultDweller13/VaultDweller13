@@ -1,6 +1,6 @@
 # Hello there! My name is Artyom
 
-Self-studying to become a front-end developer
+Front-end developer
 
 ## My stack
 

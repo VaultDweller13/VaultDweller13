@@ -4,7 +4,7 @@ Front-end developer
 
 ## My stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,html,css,sass,materialui,vite,webpack)](https://skillicons.dev)
 
 ## My contacts
 

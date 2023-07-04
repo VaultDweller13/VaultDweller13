@@ -1,11 +1,1 @@
-# Hello there! My name is Artyom
 
-Front-end developer
-
-## My stack
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,html,css,sass,materialui,vite,webpack)](https://skillicons.dev)
-
-## My contacts
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vault_dweller13)
